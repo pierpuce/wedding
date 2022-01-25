@@ -1,0 +1,16 @@
+{{ partial "head" . }}
+
+{{ partial "navbar" . }} 
+
+<div class="w3-container w3-padding-64"> 
+	<div class="w3-content w3-large">
+		{{ .Content }}
+	</div>	
+	{{ if .Params.map }}
+    <div class="w3-content">
+		{{ partial "maps" . }}
+	</div>
+	{{ end }}
+	<br></br>
+</div>
+</html>
