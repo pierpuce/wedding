@@ -1,14 +1,20 @@
-# Contribuire
++++
+title = "Contribuire"
++++
 
 La vostra presenza sará, ovviamente, il piú grande regalo. 
 
 Ci sono comunque modi diversi per contribuire all'evento, e soprattutto alla buona riuscita del viaggio di nozze (!!). 
 
-Il piú semplice é quello di fare una donazione. Potete fare la classica busta, oppure usare questo link PayPal:
-
+Il piú semplice é quello di fare una donazione. Potete fare la classica busta, oppure usare questo link PayPal cliccando sull'icona 
 {{< map >}}
+<span style="font-size: 24px; color: Dodgerblue;">
+    <a href="https://paypal.me/pierpuce?country.x=IT&locale.x=it_IT"><i class='fa fa-paypal'></i></a>
+</span>
+{{< /map >}}.
+<!-- {{< map >}}
 <a href="https://paypal.me/pierpuce" target="_blank" style="font-family: 'Josefin Sans', sans-serif;">Link PayPal</a>
-{{< /map >}}
+{{< /map >}} -->
 
 Se vi sentite creativi e volete dare un tocco personale all'evento, potete contribuire aggiungendo canzoni alla playlist che abbiamo creato su Spotify!
 

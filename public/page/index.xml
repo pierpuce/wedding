@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Pierluigi &amp; Sara si sposano!</title>
+    <link>https://gohugo.io/page/</link>
+    <description>Recent content in Pages on Pierluigi &amp; Sara si sposano!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Apr 2015 02:13:50 +0000</lastBuildDate><atom:link href="https://gohugo.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://gohugo.io/page/about/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      
+      <guid>https://gohugo.io/page/about/</guid>
+      <description>About Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec dolor in magna lobortis egestas. Suspendisse eu erat tempor, tristique neque eu, convallis nulla.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://gohugo.io/page/contact/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      
+      <guid>https://gohugo.io/page/contact/</guid>
+      <description>Contact Aenean ipsum justo, semper eu nisl ut, pretium tincidunt sem. Praesent et diam sit amet lacus lobortis dictum a id lacus.</description>
+    </item>
+    
+  </channel>
+</rss>

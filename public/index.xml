@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pierluigi &amp; Sara si sposano!</title>
+    <link>https://gohugo.io/</link>
+    <description>Recent content on Pierluigi &amp; Sara si sposano!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Apr 2015 02:13:50 +0000</lastBuildDate><atom:link href="https://gohugo.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://gohugo.io/page/about/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      
+      <guid>https://gohugo.io/page/about/</guid>
+      <description>About Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec dolor in magna lobortis egestas. Suspendisse eu erat tempor, tristique neque eu, convallis nulla.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://gohugo.io/page/contact/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      
+      <guid>https://gohugo.io/page/contact/</guid>
+      <description>Contact Aenean ipsum justo, semper eu nisl ut, pretium tincidunt sem. Praesent et diam sit amet lacus lobortis dictum a id lacus.</description>
+    </item>
+    
+    <item>
+      <title>Contribuire</title>
+      <link>https://gohugo.io/registry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo.io/registry/</guid>
+      <description>La vostra presenza sará, ovviamente, il piú grande regalo.
+Ci sono comunque modi diversi per contribuire all&amp;rsquo;evento, e soprattutto alla buona riuscita del viaggio di nozze (!</description>
+    </item>
+    
+    <item>
+      <title>Luoghi</title>
+      <link>https://gohugo.io/wedding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo.io/wedding/</guid>
+      <description>In questa pagina puoi trovare informazioni sui luoghi e i momenti del nostro matrimonio.
+     + Aggiungi l&#39;evento al tuo calendario.</description>
+    </item>
+    
+    <item>
+      <title>RSVP</title>
+      <link>https://gohugo.io/rsvp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo.io/rsvp/</guid>
+      <description>Puoi confermare la tua partecipazione seguento questo link. Grazie!</description>
+    </item>
+    
+  </channel>
+</rss>

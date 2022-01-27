@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://gohugo.io/page/about/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+  </url><url>
+    <loc>https://gohugo.io/page/contact/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+  </url><url>
+    <loc>https://gohugo.io/page/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+  </url><url>
+    <loc>https://gohugo.io/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+  </url><url>
+    <loc>https://gohugo.io/categories/</loc>
+  </url><url>
+    <loc>https://gohugo.io/registry/</loc>
+  </url><url>
+    <loc>https://gohugo.io/wedding/</loc>
+  </url><url>
+    <loc>https://gohugo.io/post/</loc>
+  </url><url>
+    <loc>https://gohugo.io/rsvp/</loc>
+  </url><url>
+    <loc>https://gohugo.io/tags/</loc>
+  </url>
+</urlset>
