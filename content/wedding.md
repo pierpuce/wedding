@@ -24,9 +24,9 @@ Ha dato i natali a [Giacomo Leopardi](https://it.wikipedia.org/wiki/Giacomo_Leop
 
 ### Le Case - Il rito simbolico
 
-![](/img/lecase.jpg#venue)
+![](/img/lecase.jpg)
 
-Seguiranno, alle 11:30, a [Le Case](https://www.ristorantelecase.it/), nei pressi di Macerata, una cerimonia simbolica, un pranzo e i festeggiamenti con le persone che ci sono piú care (voi!). 
+Seguiranno alle 12:00 circa, a [Le Case](https://www.ristorantelecase.it/), nei pressi di Macerata, una cerimonia simbolica, un pranzo e i festeggiamenti con le persone che ci sono piú care (voi!). 
 
 Le Case è un resort con centro benessere e piscina, ristorante, pizzeria, enoteca e azienda agricola biologica.
 

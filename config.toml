@@ -1,4 +1,5 @@
 baseURL = "https://_pierluigi.gitlab.io/wedding/"
+RSVP = "https://dislack.com/f/61db623403d0bc348804ef71"
 title = "Pierluigi & Sara si sposano!"
 languagecode = "en"
 author = "Steve Francia"
@@ -13,11 +14,12 @@ disqusShortname = "yourdiscussshortname"
 theme = "monopriv"
 enableEmoji = true
 summaryLength = 20
+custom_css = ["css/custom.css"]
 
 [params]  
     mainSections = ["post"]
     intro = true
-    about = ""
+    about = "28 Maggio 2022"
     paypalme = "https://paypal.me/pierpuce?country.x=IT&locale.x=it_IT"
     gitlab = "https://gitlab.com/_pierluigi/wedding"
     email = "pierluigi.puce@protonmail.com"
