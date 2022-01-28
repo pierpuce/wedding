@@ -34,7 +34,7 @@ summaryLength = 20
     post = "/:filename/"
 
 [params.search] # Site search powered by DuckDuckGo
-    enabled = true
+    enabled = false
     placeholder="Site Search"
 
 [params.hero]
