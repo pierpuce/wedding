@@ -6,8 +6,6 @@ variables:
 pages:
 
  script:
-  - apk add git
-  - git submodule add -f https://gitlab.com/kskarthik/monopriv themes/monopriv
   - hugo
  artifacts:
     paths:
