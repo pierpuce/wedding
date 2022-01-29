@@ -8,13 +8,15 @@ In questa pagina puoi trovare informazioni sui luoghi e i momenti del nostro mat
 
 ### Recanati - Il rito civile
 
-![](/img/recanati.jpg#venue)
+{{< map >}}
+<img src="/img/recanati.jpg#venue" alt="Recanati" width="500">
+{{< /map >}}
 
 Il rito civile si svolgerá alle 09:30 al Comune di [Recanati](https://it.wikipedia.org/wiki/Recanati), e sará il momento in cui renderemo ufficiale la nostra unione.
 
 Recanati é un borgo tra le colline, caratterizzato da viste mozzafiato sulle valli che lo circondano e da un centro storico medioevale. 
 
-Ha dato i natali a [Giacomo Leopardi](https://it.wikipedia.org/wiki/Giacomo_Leopardi), a [Beniamino Gigli](https://it.wikipedia.org/wiki/Beniamino_Gigli), e a Sara. 
+Ha dato i natali a [Giacomo Leopardi](https://it.wikipedia.org/wiki/Giacomo_Leopardi), a [Beniamino Gigli](https://it.wikipedia.org/wiki/Beniamino_Gigli)... e a Sara. 
 
 {{< map >}}
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11595.009049090204!2d13.543659392361704!3d43.40310721608911!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133277d2f6ce0d47%3A0x542cad5d712bcf72!2s62019%20Recanati%20MC!5e0!3m2!1sit!2sit!4v1642326337100!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
@@ -24,7 +26,9 @@ Ha dato i natali a [Giacomo Leopardi](https://it.wikipedia.org/wiki/Giacomo_Leop
 
 ### Le Case - Il rito simbolico
 
-![](/img/lecase.jpg)
+{{< map >}}
+<img src="/img/lecase.jpg" alt="Le case" width="500">
+{{< /map >}}
 
 Seguiranno alle 12:00 circa, a [Le Case](https://www.ristorantelecase.it/), nei pressi di Macerata, una cerimonia simbolica, un pranzo e i festeggiamenti con le persone che ci sono piú care (voi!). 
 
