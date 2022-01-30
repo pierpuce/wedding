@@ -1,31 +1,16 @@
 body {
     font-family: 'Lora', serif;
 }
-  
-h1,h2,h3,h4,h5,h6 {
-    font-family: 'Lora', serif;
-}
 
 .welcome h1 {
     font-family: 'Lora', serif;
     font-size: 40px;
 }
   
-.welcome h2, p, li, ul, ol, code, a {
+.welcome h2, p, a {
     font-family: 'Lora', serif
 }
 
-.w3-content h1 {
-    font-family: 'Prata'; 
-    font-size: 33px
-}
-
-.w3-content h2 {
-    font-family: 'Prata'; 
-    font-size: 24px
-}
-  
-.w3-content h3 {
-    font-family: 'Prata'; 
-    font-size: 20px
+.mt-3 h2, .mt-3 h3 {
+    font-family: 'Lora', serif
 }
