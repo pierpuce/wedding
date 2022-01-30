@@ -15,9 +15,9 @@ disqusShortname = "yourdiscussshortname"
 theme = "monopriv"
 enableEmoji = true
 summaryLength = 20
-custom_css = ["css/custom.css"]
 
-[params]  
+[params] 
+    custom_css = ["css/custom.css"]
     mainSections = ["post"]
     intro = true
     about = "28 Maggio 2022"

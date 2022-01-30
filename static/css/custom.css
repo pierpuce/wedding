@@ -1,37 +1,31 @@
 body {
-    font-family: 'Roboto Slab', serif;
-    min-height: 75rem;
-    padding-top: 4.5rem;
+    font-family: 'Lora', serif;
 }
   
 h1,h2,h3,h4,h5,h6 {
-    font-family: 'Roboto Slab', serif;
-}
-p {
-    font-size: 18px;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Lora', serif;
 }
 
-.w3-content .welcome h1 {
-    font-family: 'Prata';
+.welcome h1 {
+    font-family: 'Lora', serif;
     font-size: 40px;
 }
-
-.w3-content .welcome h2, h3, p, li, ul, ol, code, a {
-font-family: 'Prata'
+  
+.welcome h2, p, li, ul, ol, code, a {
+    font-family: 'Lora', serif
 }
 
 .w3-content h1 {
-font-family: 'Prata'; 
-font-size: 33px
+    font-family: 'Prata'; 
+    font-size: 33px
 }
 
 .w3-content h2 {
-font-family: 'Prata'; 
-font-size: 24px
+    font-family: 'Prata'; 
+    font-size: 24px
 }
-
+  
 .w3-content h3 {
-font-family: 'Prata'; 
-font-size: 20px
+    font-family: 'Prata'; 
+    font-size: 20px
 }

@@ -1,12 +1,21 @@
 <head>
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/v4-shims.css">
+	<meta charset="UTF-8">
+	<meta content="width=device-width, initial-scale=1" name="viewport">
+	<meta name="description" content='{{ .Site.Params.metadesc }}'>
+	<link href="https://www.w3schools.com/w3css/4/w3.css" rel="stylesheet">
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200&display=swap" rel="stylesheet">
-	<meta charset="utf-8">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=EB+Garamond|Fredericka+the+Great|Pacifico|Yeseva+One" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,700|Prata" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Lora&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=EB+Garamond|Oswald|Dancing+Script" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Averia+Serif+Libre" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/v4-shims.css">
 	{{ range .Site.Params.custom_css -}}
-    <link rel="stylesheet" href="{{ . | absURL }}">
+    	<link rel="stylesheet" href="{{ . | absURL }}">
 	{{- end }}
 	<meta name="description" content='{{ .Site.Params.metadesc }}'>
 	<!-- {{if .IsHome}}
