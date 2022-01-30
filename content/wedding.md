@@ -8,7 +8,7 @@ In questa pagina puoi trovare informazioni sui luoghi e i momenti del nostro mat
 
 ### Recanati - Il rito civile
 
-![Recanati](../img/recanati.png)
+![Recanati](img/recanati.png)
 
 Il rito civile si svolgerá alle 09:30 al Comune di [Recanati](https://it.wikipedia.org/wiki/Recanati), e sará il momento in cui renderemo ufficiale la nostra unione.
 
@@ -17,14 +17,14 @@ Recanati é un borgo tra le colline, caratterizzato da viste mozzafiato sulle va
 Ha dato i natali a [Giacomo Leopardi](https://it.wikipedia.org/wiki/Giacomo_Leopardi), a [Beniamino Gigli](https://it.wikipedia.org/wiki/Beniamino_Gigli)... e a Sara. 
 
 {{< map >}}
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11595.009049090204!2d13.543659392361704!3d43.40310721608911!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133277d2f6ce0d47%3A0x542cad5d712bcf72!2s62019%20Recanati%20MC!5e0!3m2!1sit!2sit!4v1642326337100!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11595.009049090204!2d13.543659392361704!3d43.40310721608911!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133277d2f6ce0d47%3A0x542cad5d712bcf72!2s62019%20Recanati%20MC!5e0!3m2!1sit!2sit!4v1642326337100!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" display="inline-block;"></iframe>
 {{< /map >}}
 
 
 
 ### Le Case - Il rito simbolico
 
-![Le Case](../img/lecase.png)
+![Le Case](img/lecase.png)
 
 Seguiranno alle 12:00 circa, a [Le Case](https://www.ristorantelecase.it/), nei pressi di Macerata, una cerimonia simbolica, un pranzo e i festeggiamenti con le persone che ci sono piú care (voi!). 
 
@@ -36,7 +36,7 @@ La *corte* era un insediamento rurale quasi autonomo da un punto di vista econom
 Tra i proprietari della struttura che si sono succeduti nei secoli, vale la pena ricordare [Pietro Vidoni](https://it.wikipedia.org/wiki/Pietro_Vidoni_(1759-1830)), e la famiglia [De' Medici](https://it.wikipedia.org/wiki/Medici).
 
 {{< map >}}
-<iframe id="map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d38326.21849452057!2d13.381475275533393!3d43.2959435682256!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x591968170899b17d!2sLe%20Case!5e0!3m2!1sit!2sit!4v1641651940777!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe id="map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d38326.21849452057!2d13.381475275533393!3d43.2959435682256!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x591968170899b17d!2sLe%20Case!5e0!3m2!1sit!2sit!4v1641651940777!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" display="inline-block;"></iframe>
 {{< /map >}}
 
 ### Come arrivarci
@@ -63,7 +63,7 @@ Un'altra opzione é quella di fermarsi a Recanati, se vorrete partecipare al rit
 Se siete interessati a visitare i dintorni di Recanati e Macerata, questi sono alcuni suggerimenti su cosa vedere. 
 
 {{< map >}}
-<iframe src="https://www.google.com/maps/d/embed?mid=1YmL5yQ_idfsf0SpCgCD_eHQxdjamgxtg&hl=it&ehbc=2E312F" width="600" height="450"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1YmL5yQ_idfsf0SpCgCD_eHQxdjamgxtg&hl=it&ehbc=2E312F" width="600" height="450"  display="inline-block;"></iframe>
 {{< /map >}}
 
 ### Parchi Naturali
