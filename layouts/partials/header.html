@@ -14,6 +14,9 @@
 	<link href="https://fonts.googleapis.com/css?family=Averia+Serif+Libre" rel="stylesheet">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/v4-shims.css">
+	<link rel="icon" type="image/x-icon" href="{{ .Site.Params.header.favicon | absURL }}">
+	<link rel="icon" type="image/png" sizes="32x32" href="{{ .Site.Params.header.favicontrtw | absURL }}">
+	<link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.Params.header.faviconsxt | absURL }}">
 	{{ range .Site.Params.custom_css -}}
     	<link rel="stylesheet" href="{{ . | absURL }}">
 	{{- end }}

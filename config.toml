@@ -17,6 +17,7 @@ enableEmoji = true
 summaryLength = 20
 
 [params] 
+    faviconSizes = [16, 32, 48]
     custom_css = ["css/custom.css"]
     mainSections = ["post"]
     intro = true
@@ -43,3 +44,8 @@ summaryLength = 20
 [params.hero]
     enabled = true
     img = "img/logo.png"
+
+[params.header]
+    favicontrtw = "img/favicon32x32.png"
+    faviconsxt = "img/favicon16x16.png"
+    favicon = "img/favicon.ico"
