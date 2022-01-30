@@ -14,3 +14,17 @@ body {
 .mt-3 h2, .mt-3 h3 {
     font-family: 'Lora', serif
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+img[src~="about"] {
+    max-width: 100%;
+    align-content: center;
+  }
+
+iframe {
+    max-width: 100%;
+}
