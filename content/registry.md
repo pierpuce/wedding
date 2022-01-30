@@ -8,7 +8,7 @@ Ci sono comunque modi diversi per contribuire all'evento, e soprattutto alla buo
 
 Il piú semplice é quello di fare una donazione. Potete fare la classica busta, oppure inviare un bonifico a
 `NL21 TRIO 2019 4773 86`
-intestato a `P.Pierluigi en S.Cocchi`
+intestato a `P.Pierluigi en S.Cocchi`.
 <!-- {{< map >}}
 <span style="font-size: 24px; color: Dodgerblue;">
     <a href="https://paypal.me/pierpuce?country.x=IT&locale.x=it_IT"><i class='fa fa-paypal'></i></a>
