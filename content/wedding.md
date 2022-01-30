@@ -8,7 +8,7 @@ In questa pagina puoi trovare informazioni sui luoghi e i momenti del nostro mat
 
 ### Recanati - Il rito civile
 
-![Recanati](img/recanati.png)
+![Recanati](../img/recanati.png)
 
 Il rito civile si svolgerá alle 09:30 al Comune di [Recanati](https://it.wikipedia.org/wiki/Recanati), e sará il momento in cui renderemo ufficiale la nostra unione.
 
@@ -24,7 +24,7 @@ Ha dato i natali a [Giacomo Leopardi](https://it.wikipedia.org/wiki/Giacomo_Leop
 
 ### Le Case - Il rito simbolico
 
-![Le Case](img/lecase.png)
+![Le Case](../img/lecase.png)
 
 Seguiranno alle 12:00 circa, a [Le Case](https://www.ristorantelecase.it/), nei pressi di Macerata, una cerimonia simbolica, un pranzo e i festeggiamenti con le persone che ci sono piú care (voi!). 
 
