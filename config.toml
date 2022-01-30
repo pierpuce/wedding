@@ -26,7 +26,7 @@ summaryLength = 20
     gitlab = "https://gitlab.com/_pierluigi/wedding"
     email = "pierluigi.puce@protonmail.com"
     # site meta description
-    metadesc = "monopriv - A simple privacy oriented bootstrap hugo blog"
+    metadesc = "Il sito web del nostro evento, che si terrá il 28 Maggio a Macerata."
     # site meta keywords
     metakeys = "hugo, simple, minimal, bootstrap, blog"
     # enable/disable disqus comments 
