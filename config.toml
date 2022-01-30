@@ -1,8 +1,9 @@
+staticDir = ['static']
 baseURL = "https://_pierluigi.gitlab.io/wedding/"
 RSVP = "https://dislack.com/f/61db623403d0bc348804ef71"
 title = "Pierluigi & Sara si sposano!"
 languagecode = "en"
-author = "Steve Francia"
+author = "Pierluigi Puce"
 # copyright = "Copyright © 2008–2019" #supports html markup
 paginate = 3
 languageCode = "en"

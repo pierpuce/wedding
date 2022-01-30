@@ -8,9 +8,7 @@ In questa pagina puoi trovare informazioni sui luoghi e i momenti del nostro mat
 
 ### Recanati - Il rito civile
 
-{{< map >}}
-<img src="/img/recanati.jpg#venue" alt="Recanati" width="500">
-{{< /map >}}
+![Recanati](../img/recanati.png)
 
 Il rito civile si svolgerá alle 09:30 al Comune di [Recanati](https://it.wikipedia.org/wiki/Recanati), e sará il momento in cui renderemo ufficiale la nostra unione.
 
@@ -26,9 +24,7 @@ Ha dato i natali a [Giacomo Leopardi](https://it.wikipedia.org/wiki/Giacomo_Leop
 
 ### Le Case - Il rito simbolico
 
-{{< map >}}
-<img src="/img/lecase.jpg" alt="Le case" width="500">
-{{< /map >}}
+![Le Case](../img/lecase.png)
 
 Seguiranno alle 12:00 circa, a [Le Case](https://www.ristorantelecase.it/), nei pressi di Macerata, una cerimonia simbolica, un pranzo e i festeggiamenti con le persone che ci sono piú care (voi!). 
 
@@ -67,7 +63,7 @@ Un'altra opzione é quella di fermarsi a Recanati, se vorrete partecipare al rit
 Se siete interessati a visitare i dintorni di Recanati e Macerata, questi sono alcuni suggerimenti su cosa vedere. 
 
 {{< map >}}
-<iframe src="https://www.google.com/maps/d/embed?mid=1YmL5yQ_idfsf0SpCgCD_eHQxdjamgxtg&hl=it&ehbc=2E312F" width="800" height="600"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1YmL5yQ_idfsf0SpCgCD_eHQxdjamgxtg&hl=it&ehbc=2E312F" width="600" height="450"></iframe>
 {{< /map >}}
 
 ### Parchi Naturali
@@ -90,4 +86,3 @@ Se siete interessati a visitare i dintorni di Recanati e Macerata, questi sono a
 - [Abbazia di San Claudio](https://www.iluoghidelsilenzio.it/abbazia-di-san-claudio-al-chienti-corridonia-mc/)
 - [Santa Maria a Pié di Chienti](http://www.santamariapiedichienti.it/)
 - [Abbadia di Chiaravalle di Fiastra](http://www.abbadiafiastra.net/)
-
