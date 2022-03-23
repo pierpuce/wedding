@@ -4,16 +4,9 @@ title = "Contribuire"
 
 La vostra presenza sará, ovviamente, il piú grande regalo. 
 
-Ci sono comunque modi diversi per contribuire all'evento, e soprattutto alla buona riuscita del viaggio di nozze (!!). 
+Ci sono comunque modi diversi per contribuire all'evento, e soprattutto alla buona riuscita del viaggio di nozze (!!).
 
-Il piú semplice é quello di fare una donazione. Potete fare la classica busta, oppure inviare un bonifico a
-`NL21 TRIO 2019 4773 86`
-intestato a `P.Pierluigi en S.Cocchi`.
-<!-- {{< map >}}
-<span style="font-size: 24px; color: Dodgerblue;">
-    <a href="https://paypal.me/pierpuce?country.x=IT&locale.x=it_IT"><i class='fa fa-paypal'></i></a>
-</span>
-{{< /map >}} -->
+Il piú semplice é quello di fare una donazione. Potete fare la classica busta, oppure inviare un bonifico al numero di conto corrente che metteremo a breve su questa pagina.
 
 Se vi sentite creativi e volete dare un tocco personale all'evento, potete contribuire aggiungendo canzoni alla playlist che abbiamo creato su Spotify!
 
