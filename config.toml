@@ -1,5 +1,5 @@
 staticDir = ['static']
-baseURL = "https://_pierluigi.gitlab.io/wedding/"
+baseURL = "https://pierpuce.github.io/wedding/"
 RSVP = "https://dislack.com/f/61db623403d0bc348804ef71"
 title = "Pierluigi & Sara si sposano!"
 languagecode = "en"
@@ -23,7 +23,7 @@ summaryLength = 20
     intro = true
     about = "28 Maggio 2022"
     paypalme = "https://paypal.me/pierpuce?country.x=IT&locale.x=it_IT"
-    gitlab = "https://gitlab.com/_pierluigi/wedding"
+    # gitlab = "https://gitlab.com/_pierluigi/wedding"
     email = "pierluigi.puce@protonmail.com"
     # site meta description
     metadesc = "Il sito web del nostro evento, che si terrá il 28 Maggio a Macerata."
