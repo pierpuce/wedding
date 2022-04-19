@@ -4,7 +4,7 @@ title = "Contribuire"
 
 La vostra presenza sará, ovviamente, il piú grande regalo. 
 
-Ci sono comunque modi diversi per contribuire all'evento, e soprattutto alla buona riuscita del viaggio di nozze (!!).
+Ci sono comunque modi diversi per contribuire all'evento, e soprattutto alla buona riuscita del viaggio di nozze! :grin:
 
 Il piú semplice é quello di fare una donazione. Potete fare la classica busta, oppure inviare un bonifico al numero di conto corrente che metteremo a breve su questa pagina.
 
